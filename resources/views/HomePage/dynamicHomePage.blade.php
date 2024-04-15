@@ -379,5 +379,5 @@
     <script>
         let site_url = '{{ url('/') }}';
     </script>
-    {{-- <script src="js/homePage.js?v=2"></script> --}}
+    <script src="js/homePage.js?v=2"></script>
 @endsection

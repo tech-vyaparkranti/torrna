@@ -25,7 +25,7 @@
                 
             </div>
             <div class="row my-shuffle-container">
-                @if (empty($galleryImages)) 
+                @if (!empty($galleryImages)) 
                 @foreach ($galleryImages as $item)
                 <div class="mb-3 col-md-4 col-sm-6 picture-item" data-groups='["{!!  $item->filter_category !!}"]'><img src="{{ $item->local_image?url($item->local_image):$item->image_link}}" class="img-fluid" width="" height="" alt="Destinations"></div>
                 @endforeach

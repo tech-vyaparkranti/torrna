@@ -1,6 +1,6 @@
 $(document).ready(function () {
     homePageDestinations();
-    homePageServices();
+    //homePageServices();
     testimonials();
 
     

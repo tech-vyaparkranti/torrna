@@ -39,7 +39,7 @@
                         <option value="hidden">Hidden</option>
                     </x-select-label-group>
                     <x-select-label-group required name="filter_category" id="filter_category_id" label_text="Filter Category">
-                        <option value="Temples">Temples</option>
+                        <option value="Tours">Tours</option>
                         <option value="Monuments">Monuments</option>
                         <option value="HillStations">HillStations</option>
                     </x-select-label-group>
