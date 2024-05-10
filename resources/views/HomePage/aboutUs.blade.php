@@ -10,10 +10,10 @@
     <div class="default-content pt-5 pb-3">
         <div class="custom-container">
             <div class="site-title pb-3">
-                <h2 class="text-center">AboutUs Torna Holidays Services</h2>
+                <h2 class="text-center">About Torna Leisures Pvt Ltd Services</h2>
             </div>
             <div class="midd-content">
-                <p class="text-justify">Established in 1994, <b>Torna Holidays Pvt Ltd</b> has been a stalwart in the tourism industry, dedicated to creating memorable experiences for travelers worldwide. Specializing in both domestic and international tours, we cater to a diverse range of tourism segments, including adventure, leisure, cultural exploration, educational trips, cruise holidays, bike expeditions, camping excursions, and hikes. With a commitment to excellence and a passion for exploration, we have become synonymous with exceptional travel experiences tailored to suit every traveler's preferences.</p> 
+                <p class="text-justify">Established in 1994, <b>Torna Leisures Pvt Ltd </b> has been a stalwart in the tourism industry, dedicated to creating memorable experiences for travelers worldwide. Specializing in both domestic and international tours, we cater to a diverse range of tourism segments, including adventure, leisure, cultural exploration, educational trips, cruise holidays, bike expeditions, camping excursions, and hikes. With a commitment to excellence and a passion for exploration, we have become synonymous with exceptional travel experiences tailored to suit every traveler's preferences.</p> 
                 <p class="text-justify">As your one-stop destination for all travel solutions, we offer a comprehensive range of services to cater to your every need. From booking flights and accommodations to arranging transportation, handling forex transactions, securing visas, and providing insurance coverage, we take care of every detail so you can focus on making the most of your journey.</p>
 
                 <h3>Our Philosophy:</h3>
@@ -24,7 +24,7 @@
                 <div class="our-teams">
                     <div class="about-our-team">
                         <div class="about-our-item about-our-item-left">
-                            <img src="assets/img/profile.png" alt="team-01" height="200" width="200">
+                            <img src="assets/img/torna/managing-director.jpg" alt="team-01" height="200" width="200">
                         </div>
                         <div class="about-our-item about-our-item-right">
                             <h5>Managing Director</h5>
@@ -38,20 +38,20 @@
                             <img src="assets/img/profile.png" alt="team-02" height="200" width="200">
                         </div>
                         <div class="about-our-item about-our-item-right">
-                            <h5>Managing Director</h5>
+                            <h5>Director</h5>
                             <h6>Jaipreet Kaur</h6>
                             <i>Our dream for Torna will be bigger, Our ambition higher, Our commitment deeper &amp; So will be our achievement.</i>
                             <p class="text-justify">Profile Dummmy Content consectetur adipisicing elit. Expedita, odio consectetur. Aliquam error sed tempora mollitia illum corporis impedit eaque veniam vitae praesentium cumque minima unde, aperiam ipsa odit et voluptatibus sunt tempore, accusantium delectus laborum nihil vel molestiae sint.</p>
                         </div>
                     </div>
                 </div>
-                <p class="text-justify"><b>At Torna Holidays Pvt Ltd, we invite you to embark on a journey of discovery, where every experience is crafted with care and passion. Let us be your guide to the wonders of India.</b></p>
+                <p class="text-justify"><b>At Torna Leisures Pvt Ltd, we invite you to embark on a journey of discovery, where every experience is crafted with care and passion. Let us be your guide to the wonders of India.</b></p>
 
                 <img src="assets/img/logo.png" width="100" height="" class="img-fluid mb-2" style="width: 100px;" />
                 <span><b>AN ICE AXE</b> - Symbolize our spirit to <i>Either Find Ways Or Make One.</i></span><br><br>
                 <div class="table-block">
                     <div class="table-item">
-                        <label>Welcome to Torna Holidays Pvt Ltd</label>
+                        <label>Welcome to Torna Leisures Pvt Ltd </label>
                     </div>
                     <div class="table-item">
                         <label>Your Gateway to Unforgettable Journeys**</label>

@@ -10,12 +10,73 @@
             <div class="site-title pb-0">
                 <h2 class="text-center">About Us</h2>
             </div>
-            <p class="text-center">Established in 1994, Torna Holidays has been a stalwart in the tourism industry, dedicated to creating memorable experiences for travelers worldwide. Specializing in both domestic and international tours, we cater to a diverse range of tourism segments, including adventure, leisure, cultural exploration, educational trips, cruise holidays, bike expeditions, camping excursions, and hikes. With a commitment to excellence and a passion for exploration, we have become synonymous with exceptional travel experiences tailored to suit every traveler's preference.</p>
-            <p class="text-center">At <b>Torna Holidays Pvt Ltd,</b> we invite you to embark on a journey of discovery, where every experience is crafted with care and passion. Let us be your guide to the wonders of india.</p>
+            <p class="text-center">Established in 1994, Torna Leisures Pvt Ltd has been a stalwart in the tourism industry, dedicated to creating memorable experiences for travelers worldwide. Specializing in both domestic and international tours, we cater to a diverse range of tourism segments, including adventure, leisure, cultural exploration, educational trips, cruise holidays, bike expeditions, camping excursions, and hikes. With a commitment to excellence and a passion for exploration, we have become synonymous with exceptional travel experiences tailored to suit every traveler's preference.</p>
+            <p class="text-center">At <b>Torna Leisures Pvt Ltd,</b> we invite you to embark on a journey of discovery, where every experience is crafted with care and passion. Let us be your guide to the wonders of india.</p>
         </div>
     </div>
     <!-- Destinations Section End -->
     <!-- Destinations Section -->
+    <div class="destinations pt-2 pb-4">
+        <div class="custom-container">
+            <div class="site-title pb-4">
+                <h2 class="text-center">Our Services</h2>
+                {{-- <p class="text-center">Embark on unforgettable journeys to exotic destinations with our expertly crafted travel experiences.</p> --}}
+            </div>
+            <div class="swiper we-offer" >
+                <div class="swiper-wrapper" id="destinations">
+                    <div class="swiper-slide mb-4">
+                        <div class="destinations-block">
+                            <div class="destinations-figure">
+                                <img src="assets/img/india.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                            </div>
+                            <span class="destinations-title">India</span>
+                        </div>
+                    </div>
+                    <div class="swiper-slide mb-4">
+                        <div class="destinations-block">
+                            <div class="destinations-figure">
+                                <img src="assets/img/europe.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                            </div>
+                            <span class="destinations-title">Europe</span>
+                        </div>
+                    </div>
+                    <div class="swiper-slide mb-4">
+                        <div class="destinations-block">
+                            <div class="destinations-figure">
+                                <img src="assets/img/usa.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                            </div>
+                            <span class="destinations-title">USA</span>
+                        </div>
+                    </div>
+                    <div class="swiper-slide mb-4">
+                        <div class="destinations-block">
+                            <div class="destinations-figure">
+                                <img src="assets/img/canada.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                            </div>
+                            <span class="destinations-title">Canada</span>
+                        </div>
+                    </div>
+                    <div class="swiper-slide mb-4">
+                        <div class="destinations-block">
+                            <div class="destinations-figure">
+                                <img src="assets/img/thailand.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                            </div>
+                            <span class="destinations-title">Thailand</span>
+                        </div>
+                    </div>
+                    <div class="swiper-slide mb-4">
+                        <div class="destinations-block">
+                            <div class="destinations-figure">
+                                <img src="assets/img/uk.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                            </div>
+                            <span class="destinations-title">UK</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+    </div>
     <div class="destinations pt-2 pb-4">
         <div class="custom-container">
             <div class="site-title pb-4">
@@ -27,64 +88,57 @@
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/action-america-architecture-378570-1-scaled-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/accomodation.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Accommodations</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/Africa-desktop-wallpapers-HD-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/meet-and-greet.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Meet & Greet</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/america-architecture-blue-sky-1239162-1-scaled-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/hotels.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Hotel / Resorts / Palaces & Forts / Camps / Serviced Apartments / Home Stays</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/copenhagen-3966079_1920-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/car-rental.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Rental Cars & Couches of all specifications</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/destination-bangalore-south-india-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/air-ticket.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Air/Rail Tickets - Domestic & International (Eurail, Britrail)</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/metro-3714296_1920-1-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/visa.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Visa & immigration Assistance</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/torna/MSC-Divina-cruise-ship-in-Dubrovnik-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/foreign-exchange.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Foreign Exchange & Money Transfer</span>
-                            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut doloremque iusto enim, eos, earum esse, debitis nihil harum laudantium magni eligendi adipisci fugit incidunt minus.</p>
                         </div>
                     </div>
                 </div>
@@ -100,12 +154,12 @@
                 <div class="col-md-6">
                     <div class="midd-content">
                         <h3>Who We Serve</h3>
-                        <p class="text-justify">At Torna Holidays, we believe that travel is for everyone. Whether you're a student seeking new experiences, a corporate team looking for team-building opportunities, or a family craving quality time together, we have the perfect itinerary for you. Additionally, we specialize in facilitating MICE (Meetings, Incentive, Conference, and Events) to ensure that your business gatherings are seamless and memorable.</p>
+                        <p class="text-justify">At Torna Leisures Pvt Ltd, we believe that travel is for everyone. Whether you're a student seeking new experiences, a corporate team looking for team-building opportunities, or a family craving quality time together, we have the perfect itinerary for you. Additionally, we specialize in facilitating MICE (Meetings, Incentive, Conference, and Events) to ensure that your business gatherings are seamless and memorable.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="we-serve-figure">
-                        <img src="assets/img/torna/TrainExterior.jpg" width="" alt="Torna" height="" class="img-fluid rounded" />
+                        <img src="assets/img/family.jpg" width="" alt="Torna" height="" class="img-fluid rounded" />
                     </div>
                 </div>
             </div>
@@ -135,7 +189,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/tehri-garhwal-rishikesh-149362424074-orijgp-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Adventure-Holidays.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Adventure Holidays</span>
                             </div>
@@ -143,7 +197,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/the-couple-traveller.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/himalayan-hikes.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Himalayan Hikes</span>
                             </div>
@@ -151,7 +205,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/action-america-architecture-378570-1-scaled-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Mountaineering-Expeditions.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Mountaineering Expeditions</span>
                             </div>
@@ -159,7 +213,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/Africa-desktop-wallpapers-HD-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/drivista1.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Drivista</span>
                             </div>
@@ -167,7 +221,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/america-architecture-blue-sky-1239162-1-scaled-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Wild-Life-Tours.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Wild Life Tours</span>
                             </div>
@@ -175,7 +229,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/copenhagen-3966079_1920-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Great-Indian-Journeys.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Great Indian Journeys</span>
                             </div>
@@ -183,7 +237,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/destination-bangalore-south-india-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/North-East-India.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">North East India</span>
                             </div>
@@ -191,7 +245,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/metro-3714296_1920-1-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Globe-Trotting.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Globe Trotting</span>
                             </div>
@@ -199,7 +253,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/MSC-Divina-cruise-ship-in-Dubrovnik-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Educational-Trips-&-Experiential-Programs.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Educational Trips & Experiential Programs</span>
                             </div>
@@ -207,7 +261,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/tehri-garhwal-rishikesh-149362424074-orijgp-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Accommodations.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Accommodations</span>
                             </div>
@@ -215,7 +269,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/the-couple-traveller.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Voyages-of-Revelry.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Voyages of Revelry</span>
                             </div>
@@ -223,7 +277,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/action-america-architecture-378570-1-scaled-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Ladies-Only-Tours.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Ladies Only Tours</span>
                             </div>
@@ -231,7 +285,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/Africa-desktop-wallpapers-HD-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Senior-Citizens-Programs.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Senior Citizens Programs</span>
                             </div>
@@ -239,7 +293,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/america-architecture-blue-sky-1239162-1-scaled-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/Transport1.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Transport</span>
                             </div>
@@ -247,7 +301,7 @@
                         <div class="swiper-slide mb-4">
                             <div class="destinations-block">
                                 <div class="destinations-figure">
-                                    <img src="assets/img/torna/copenhagen-3966079_1920-400x400.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                    <img src="assets/img/travelbrace/visa-assistance.jpg" class="img-fluid" width="" height="" alt="Destinations">
                                 </div>
                                 <span class="destinations-title mh-auto text-center">Visa, Forex, and Insurance Services</span>
                             </div>

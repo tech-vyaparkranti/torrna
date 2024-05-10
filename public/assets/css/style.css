@@ -27,7 +27,7 @@ a{color: #333;text-decoration: none !important;}
     color: rgb(var(--blue-color));
     text-transform: uppercase;
     position: relative;
-    text-shadow: var(--text-shadow);
+    /* text-shadow: var(--text-shadow); */
 }
 .midd-content h2 {
     font-size: 20px;
@@ -161,7 +161,7 @@ header ul,a{
     color: rgb(var(--black-color));
     text-transform: uppercase;
     transition: var(--transition);
-    text-shadow: 0px 0px 10px rgb(var(--blue-color) / 40%);
+    /* text-shadow: 0px 0px 10px rgb(var(--blue-color) / 40%); */
 }
 .social-media li > a {font-size: 16px !important;}
 .header-contaner ul li:hover a,.header-contaner ul li:focus a{

@@ -34,7 +34,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="assets/img/torna/action-america-architecture-378570-1-scaled-400x400.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner">
+                                <img src="assets/img/travelbrace/himalayan-hikes.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner">
                             </div>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="assets/img/torna/Africa-desktop-wallpapers-HD-400x400.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Mountaineering-Expeditions.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="assets/img/torna/america-architecture-blue-sky-1239162-1-scaled-400x400.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/drivista1.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/rajaji-national-park.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Great-Indian-Journeys.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Globe-Trotting.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Educational-Trips-&-Experiential-Programs.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/accomodation1.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Voyages-of-Revelry.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Ladies-Only-Tours.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -164,7 +164,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Senior-Citizens-Programs.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/Transport1.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>
@@ -190,7 +190,7 @@
                                 </div>
                             </div>
                             <div class="offerings-figure">
-                                <img src="https://dummyimage.com/300x300/d1d1d1/fff" class="img-fluid rounded" width="" height="" alt="Bikaner" />
+                                <img src="assets/img/travelbrace/visa-assistance.jpg" class="img-fluid rounded" width="" height="" alt="Bikaner" />
                             </div>
                         </div>
                     </div>

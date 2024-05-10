@@ -31,6 +31,16 @@
                         <img src="assets/img/Recognitions/IMF.png" width="" height="" class="img-fluid" />
                     </div>
                 </div>
+                <div class="swiper-slide">
+                    <div class="recognitions-item">
+                        <img src="assets/img/Recognitions/msme.jpg" width="" height="" class="img-fluid" />
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="recognitions-item">
+                        <img src="assets/img/Recognitions/startup.jpg" width="" height="" class="img-fluid" />
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -47,7 +57,7 @@
                             <img src="./assets/img/logo-two.png" class="img-fluid" width="130" height="86" alt="Torna Holidays Pvt Ltd" >
                             {{-- <div id="TA_rated501" class="TA_rated"><ul id="JjXmgm" class="TA_links VuYcLdHeKQX"><li id="Vri6iTpTKUC" class="IZw2R90i"><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g304551-d15224458-Reviews-The_Luxury_Travel-New_Delhi_National_Capital_Territory_of_Delhi.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/badges/ollie-11424-2.gif" alt="TripAdvisor"/></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=rated&amp;uniq=501&amp;locationId=15224458&amp;lang=en_US&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script> --}}
                         </div>
-                        <p class="text-justify">Torna Holidays Pvt Ltd offer a unique and expert experience to the modern traveller. Expect an impeccable level of service from your first point of contact to your last moments of Tour. </p>
+                        <p class="text-justify">Torna Leisures Pvt Ltd offer a unique and expert experience to the modern traveller. Expect an impeccable level of service from your first point of contact to your last moments of Tour. </p>
                         <ul class="social-media mt-4">
                             <li><a href="/"><i class="fa-brands fa-facebook"></i></a></li>
                             <li><a href="/"><i class="fa-brands fa-square-instagram"></i></a></li>
@@ -83,7 +93,7 @@
                         </div>
                         <div class="footer-item pb-3">
                             <label>Contact No:</label>
-                            <p class="text-justify"><i class="fa-solid fa-phone"></i>&nbsp;<a href="tel:01145633460">011 4563 3460</a> / <a href="tel:+918527013737">+91 852 701 3737</a></p>
+                            <p class="text-justify"><i class="fa-solid fa-phone"></i>&nbsp;<a href="tel:+919311014343">+91 931 101 4343</a> / <a href="tel:+919971553296">+91 997 155 3296</a></p>
                         </div>
                         <div class="footer-item pb-3">
                             <label>Address:</label>
@@ -95,5 +105,5 @@
         </div>
     </div>
 </footer>
-<div class="copyright-section text-center p-3 text-white">&copy; <script>document.write( new Date().getFullYear() );</script>  All Rights Reserved by Torna Holidays Pvt Ltd & Developed by <a href="https://vyaparkranti.com/" class="text-white" aria-label="Digital Markating" alt="Vyapar Kranti">Vyapar kranti</a></div>
+<div class="copyright-section text-center p-3 text-white">&copy; <script>document.write( new Date().getFullYear() );</script>  All Rights Reserved by Torna Leisures Pvt Ltd & Developed by <a href="https://vyaparkranti.com/" class="text-white" aria-label="Digital Markating" alt="Vyapar Kranti">Vyapar kranti</a></div>
 <!-- Footer Section End-->
