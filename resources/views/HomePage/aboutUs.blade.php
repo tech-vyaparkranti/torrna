@@ -18,7 +18,7 @@
 
                 <h3>Our Philosophy:</h3>
                 <p class="text-justify"><b>"Pro Bono Publico"</b> guides our mission to promote tourism for the public good while preserving India's natural beauty, cultural heritage, and ecological balance. We believe that tourism should not only enrich the traveler but also contribute positively to the communities and environments visited. Upholding this ethos, we continually strive to enhance the quality of our services while maintaining fair pricing for our customers.</p>
-                <div class="site-title pt-2">
+                <div class="site-title pt-2" id="our-sec">
                     <h2 class="text-left">Our Team</h2>
                 </div>
                 <div class="our-teams">
@@ -49,7 +49,7 @@
 
                 <img src="assets/img/logo.png" width="100" height="" class="img-fluid mb-2" style="width: 100px;" />
                 <span><b>AN ICE AXE</b> - Symbolize our spirit to <i>Either Find Ways Or Make One.</i></span><br><br>
-                <div class="table-block">
+                <div class="table-block" id="reco-sec">
                     <div class="table-item">
                         <label>Welcome to Torna Leisures Pvt Ltd </label>
                     </div>
