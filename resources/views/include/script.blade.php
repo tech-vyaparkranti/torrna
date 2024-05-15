@@ -129,16 +129,16 @@ var swiper = new Swiper(".testimonials", {
       spaceBetween: 10,
     },
     640: {
-      slidesPerView: 2,
+      slidesPerView: 1,
       spaceBetween: 15,
     },
     768: {
-      slidesPerView: 3,
+      slidesPerView: 1,
       spaceBetween: 20,
     },
     1024: {
-      slidesPerView: 3,
-      spaceBetween: 25,
+      slidesPerView: 1,
+      spaceBetween: 30,
     },
   },
 });

@@ -19,15 +19,15 @@
     <div class="destinations pt-2 pb-4">
         <div class="custom-container">
             <div class="site-title pb-4">
-                <h2 class="text-center">Our Services</h2>
-                {{-- <p class="text-center">Embark on unforgettable journeys to exotic destinations with our expertly crafted travel experiences.</p> --}}
+                <h2 class="text-center">Our Popular Destinations</h2>
+                <p class="text-center">Embark on unforgettable journeys to exotic destinations with our expertly crafted travel experiences.</p>
             </div>
             <div class="swiper we-offer" >
                 <div class="swiper-wrapper" id="destinations">
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/india.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/ram-mandir.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">India</span>
                         </div>
@@ -80,8 +80,8 @@
     <div class="destinations pt-2 pb-4">
         <div class="custom-container">
             <div class="site-title pb-4">
-                <h2 class="text-center">Our Popular Destinations</h2>
-                <p class="text-center">Embark on unforgettable journeys to exotic destinations with our expertly crafted travel experiences.</p>
+                <h2 class="text-center">Our Services</h2>
+                {{-- <p class="text-center">Embark on unforgettable journeys to exotic destinations with our expertly crafted travel experiences.</p> --}}
             </div>
             <div class="swiper we-offer" >
                 <div class="swiper-wrapper" id="destinations">
@@ -96,7 +96,7 @@
                     <div class="swiper-slide mb-4">
                         <div class="destinations-block">
                             <div class="destinations-figure">
-                                <img src="assets/img/travelbrace/meet-and-greet.jpg" class="img-fluid" width="" height="" alt="Destinations">
+                                <img src="assets/img/travelbrace/meet-and-greet-2.jpg" class="img-fluid" width="" height="" alt="Destinations">
                             </div>
                             <span class="destinations-title">Meet & Greet</span>
                         </div>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="we-serve-figure">
-                        <img src="assets/img/family.jpg" width="" alt="Torna" height="" class="img-fluid rounded" />
+                        <img src="assets/img/travelbrace/collase-2.jpg" width="" alt="Torna" height="" class="img-fluid rounded" />
                     </div>
                 </div>
             </div>
@@ -385,28 +385,26 @@
     {{-- Testimonial Section  --}}
     <section class="testimonial pt-4 pb-2">
         <div class="custom-container">
-            <div class="site-title pb-3">
+            <div class="site-title pb-3 mt-4">
                 <h2 class="text-center">What our Client Says</h2>
             </div>
             <div class="swiper testimonials mb-5">
                 <div class="swiper-wrapper" id="testimonialsData">
                     <div class="swiper-slide">
-                        <div class="testimonials-block text-center">
-                            <img src="./assets/img/profile.png" class="img-fluid" width="150" height="150"
-                                alt="Destinations">
-                            <span class="testimonials-title">Prakash Sharma</span>
-                            <p class="text-justify">highly trained and motivated teams, an exclusive panel of knowledgeable guides.</p>
+                        <div class="testimonial-card">
+                            <h3 class="text-center">Client Name</h3>
+                            <p class="text-center">Designation</p>
+                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat itaque laudantium fuga! Officiis libero harum dicta aperiam adipisci neque. Quae, vero. Quibusdam numquam deserunt distinctio fugiat beatae harum repellat sint. Odio assumenda mollitia esse aut eos enim ipsa hic perferendis. <i class="fa-solid fa-quote-right"></i></p>
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="testimonials-block text-center">
-                            <img src="./assets/img/indian-male.jpg" class="img-fluid" width="150" height="150"
-                                alt="Destinations">
-                            <span class="testimonials-title">Mohan</span>
-                            <p class="text-justify">highly trained and motivated teams, an exclusive panel of knowledgeable guides.</p>
+                        <div class="testimonial-card">
+                            <h3 class="text-center">Client Name</h3>
+                            <p class="text-center">Designation</p>
+                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat itaque laudantium fuga! Officiis libero harum dicta aperiam adipisci neque. Quae, vero. Quibusdam numquam deserunt distinctio fugiat beatae harum repellat sint. Odio assumenda mollitia esse aut eos enim ipsa hic perferendis. <i class="fa-solid fa-quote-right"></i></p>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    {{-- <div class="swiper-slide">
                         <div class="testimonials-block text-center">
                             <img src="./assets/img/indian-male-three.jpg" class="img-fluid" width="150"
                                 height="150" alt="Destinations">
@@ -421,9 +419,8 @@
                             <span class="testimonials-title">Naresh</span>
                             <p class="text-justify">highly trained and motivated teams, an exclusive panel of knowledgeable guides.</p>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
-                {{-- <div class="swiper-pagination"></div> --}}
             </div>
         </div>
     </section>

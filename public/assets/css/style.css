@@ -263,6 +263,7 @@ header ul,a{
     background: linear-gradient(25deg, rgb(var(--header-bg) / 30%) 20%, transparent 60%);
     z-index: 2;
 }
+
 /* Destination Block */
 .destinations-figure, .destinations-block {position: relative;cursor: pointer;}
 .destinations-block,.destinations-block:before, .destinations-figure > img {transition: var(--transition);}
@@ -567,9 +568,16 @@ a.footer-call {bottom: 80px;padding: 5px;}
     margin-bottom: 0;
     font: 400 14px/normal var(--monster-font);
 }
+.testimonials .swiper-slide{
+    margin:50px 0px;
+}
+.testimonials .swiper-slide .fa-quote-left{
+    font-size:25px;
+}
+.testimonials .swiper-slide .fa-quote-right{
+    font-size:25px;
+}
 /* review section End */
-
-
 @media (max-width: 1024px){.video-block .mobile-video{display: block !important;}.desktop-video{display: none;}}
 @media (max-width: 767px){
     /* New Offering section */
