@@ -35,10 +35,10 @@
                     </div>
                     <div class="about-our-team">
                         <div class="about-our-item about-our-item-left">
-                            <img src="assets/img/profile.png" alt="team-02" height="200" width="200">
+                            <img src="assets/img/torna/jaspreet.jpg" alt="team-02" height="200" width="200">
                         </div>
                         <div class="about-our-item about-our-item-right">
-                            <h5>Director</h5>
+                            <h5>Business Head</h5>
                             <h6>Jaipreet Kaur</h6>
                             <i>Our dream for Torna will be bigger, Our ambition higher, Our commitment deeper &amp; So will be our achievement.</i>
                             <p class="text-justify">Profile Dummmy Content consectetur adipisicing elit. Expedita, odio consectetur. Aliquam error sed tempora mollitia illum corporis impedit eaque veniam vitae praesentium cumque minima unde, aperiam ipsa odit et voluptatibus sunt tempore, accusantium delectus laborum nihil vel molestiae sint.</p>

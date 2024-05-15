@@ -514,7 +514,7 @@ a.footer-call {bottom: 80px;padding: 5px;}
     font: 400 14px/normal var(--monster-font);
 }
 .testimonials .swiper-slide{
-    margin:50px 0px;
+    margin:50px 0px 0px;
 }
 .testimonials .swiper-slide .fa-quote-left{
     font-size:25px;

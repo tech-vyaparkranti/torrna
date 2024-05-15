@@ -28,7 +28,7 @@
           </div>
         </div>
         <div class="swiper-slide">
-          <img class="img-fluid" width="" height="" alt="Image" src="assets/img/banner-3.jpg" />
+          <img class="img-fluid" width="" height="" alt="Image" src="assets/img/travelbrace/ram mandir-1.jpg" />
           <div class="video-content">
             <span>Torna Holidays</span>
             <h1>Exploring the World Since 1994</h1>

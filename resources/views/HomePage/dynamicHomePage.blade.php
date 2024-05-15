@@ -392,16 +392,50 @@
                 <div class="swiper-wrapper" id="testimonialsData">
                     <div class="swiper-slide">
                         <div class="testimonial-card">
-                            <h3 class="text-center">Client Name</h3>
-                            <p class="text-center">Designation</p>
-                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat itaque laudantium fuga! Officiis libero harum dicta aperiam adipisci neque. Quae, vero. Quibusdam numquam deserunt distinctio fugiat beatae harum repellat sint. Odio assumenda mollitia esse aut eos enim ipsa hic perferendis. <i class="fa-solid fa-quote-right"></i></p>
+                            <h3 class="text-center">Mrs.Tabasum Farooqui</h3>
+                            <p class="text-center">(Principal: Middle East International Public School, Riyadh)</p>
+                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> Major Satnam, meeting you for the first time itself at our school premises, gave us a sense of security,
+                                and a feeling that our students would be in safe hands.
+                                Mrs. Jaspreet, your motherly touch throughout the tour made a difference in the foreign land for our
+                                children. They felt hindered by your loving and caring attitude.
+                                Ms. Avneet, thank you for all the spade work and preparation done by you at your end. You seem to be
+                                a young lady with grit and determination.
+                                All three of you are a good example of Team Work, and have also proved that Duty makes us do things
+                                well, but love helps us to do them beautifully.
+                                Keep up your good work! You deserve a big round of applause from all of us. <i class="fa-solid fa-quote-right"></i></p>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="testimonial-card">
-                            <h3 class="text-center">Client Name</h3>
-                            <p class="text-center">Designation</p>
-                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat itaque laudantium fuga! Officiis libero harum dicta aperiam adipisci neque. Quae, vero. Quibusdam numquam deserunt distinctio fugiat beatae harum repellat sint. Odio assumenda mollitia esse aut eos enim ipsa hic perferendis. <i class="fa-solid fa-quote-right"></i></p>
+                            <h3 class="text-center">Ms. Jyotsna Brar</h3>
+                            <p class="text-center">Wellham Girls School, Dehradun, India</p>
+                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> I am writing to thank you and Maj. Satnam in particular for a good trek which the girls have told me
+                                was well 1rganize1. We must continue the relationship and 1rganize the next trek with some more input
+                                from both sides. The girl were all praise for Maj. Satnam. Please do let him know and thank him and his
+                                team of wonderful girls.<i class="fa-solid fa-quote-right"></i></p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial-card">
+                            <h3 class="text-center">Chris Moore</h3>
+                            <p class="text-center">West Vancouver, Canada</p>
+                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> Overall my satisfaction with our camping and trek experience was high. The positive aspects of the
+                                experience are as follows: <br>
+                            <p class="text-center">1.The food was very good and water was readily available.</p>
+                            <p class="text-center">2.Your guides were helpful and energetic in addition to being very personable with the staff and students.</p>
+                            <p class="text-center">3.The route chosen was scenic challenging and had options.</p>
+                            <p class="text-center">4.The tents and equipment supplied was adequate.</p>
+                            <p class="text-center">Overall it was a memorable experience.<i class="fa-solid fa-quote-right"></i></p>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial-card">
+                            <h3 class="text-center">Grant Harris</h3>
+                            <p class="text-center">The Armidale School, New South Wales, Australia</p>
+                            <p class="text-center"><i class="fa-solid fa-quote-left"></i> I was very happy with the catering/tents/hired bags/ the staff were friendly and I thought the cricket
+                                and archery were a real bonus.
+                                Nothing seemed too much trouble for you and I like the Military precision of the planning. <i class="fa-solid fa-quote-right"></i></p>
                         </div>
                     </div>
                     {{-- <div class="swiper-slide">
