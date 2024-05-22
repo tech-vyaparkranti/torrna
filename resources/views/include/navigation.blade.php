@@ -6,7 +6,7 @@
     <div class="header-contaner">
         <div class="logo-section">
             <div class="mobile-bars" hidden></div>
-            <a href="{{ url('/') }}" aria-level="Main logo"><img src="./assets/img/logo.png" class="img-fluid" width="120" height="86" alt="Torna Holidays Pvt Ltd"></a>
+            <a href="{{ url('/') }}" aria-level="Main logo"><img src="./assets/img/logo-two.png" class="img-fluid" width="120" height="86" alt="Torna Holidays Pvt Ltd"></a>
         </div>
         <div class="slide-navigation">
             <div class="navbar-wrapper">
