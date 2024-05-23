@@ -705,4 +705,6 @@ a.footer-call {bottom: 80px;padding: 5px;}
     /* New Offering section */
     .offerings-container {width: 100% !important;}
     /* New Offering section End */
+    .our-teams .about-our-team {display: block !important;}
+
 }
