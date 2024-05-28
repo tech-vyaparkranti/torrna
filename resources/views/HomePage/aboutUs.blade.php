@@ -29,8 +29,20 @@
                         <div class="about-our-item about-our-item-right  col-sm-12 col-12">
                             <h5>Managing Director</h5>
                             <h6>Major Satnam Singh</h6>
-                            <i>Our dream for Torna will be bigger, Our ambition higher, Our commitment deeper &amp; So will be our achievement.</i>
-                            {{-- <p class="text-justify">Profile Dummmy Content consectetur adipisicing elit. Expedita, odio consectetur. Aliquam error sed tempora mollitia illum corporis impedit eaque veniam vitae praesentium cumque minima unde, aperiam ipsa odit et voluptatibus sunt tempore, accusantium delectus laborum nihil vel molestiae sint.</p> --}}
+                            {{-- <i>Our dream for Torna will be bigger, Our ambition higher, Our commitment deeper &amp; So will be our achievement.</i> --}}
+                            <p class="text-justify">Major Satnam Singh, a distinguished ex-Indian Army officer from the Cavalry, has demonstrated remarkable resilience and versatility throughout his career. As a war-wounded soldier, he embodies courage and perseverance. His passion for adventure and exploration is further highlighted by his qualifications and experience as a mountaineer and an avid traveller.
+                            </p>
+                            <p class="text-justify">In 1994, leveraging his extensive leadership skills and his love for travel, Major Singh founded TORNA HOLIDAYS. Under his visionary guidance, TORNA has grown into one of India's leading and most trusted travel brands. With over 30 years of experience in the tourism industry, the company has successfully conducted both FIT (Free Independent Traveler) and group tours across the globe.
+                            </p>
+                            <p class="text-justify">TORNA HOLIDAYS has earned a stellar reputation for organizing a wide array of events and experiences. Notable among these are Diagnostics 92 in Delhi and Trendz 97, a consumer exhibition in Punjab. The company has also made a name for itself in the niche market of Royal Indian Weddings, orchestrating grand ceremonies in iconic locations such as Goa, Udaipur, Agra, and Jaipur.
+                            </p>
+                            <p class="text-justify">Additionally, TORNA HOLIDAYS has facilitated unique educational trips like the visit to NASA for students from India, Saudi Arabia, and Nepal. They have also arranged charter operations between Birmingham and Amritsar, demonstrating their logistical expertise and commitment to customer satisfaction.
+                            </p>
+                            <p class="text-justify">The company's extensive portfolio includes operating group tours in diverse destinations like the UK, Europe, Australia, New Zealand, Sri Lanka, Indonesia, Vietnam, Cambodia, Estonia, and Norway. They have also participated in thrilling North East Motorbike Expeditions, covering an impressive 6500 kilometers.
+                            </p>
+                            <p class="text-justify">Beyond the realm of travel and tourism, Major Singh has also showcased his expertise in concept design, fabrication, and operations of adventure resorts. He has designed and developed various adventure parks across India, including Mandvya Nature Park in Mandi, Bakhli Nature Park in Pandoh, Aribba Adventures in Chandigarh, Aravali Orchard in Gurgaon, and Avenue 7 in Lansdowne.
+                            </p>
+                            <p class="text-justify">TORNA HOLIDAYS aims to connect people and places around the globe, providing exceptional value for money to their clients. Major Satnam Singh's leadership and dedication continue to drive the company's success, ensuring memorable and enriching travel experiences for all.</p>
                         </div>
                     </div>
                     <div class="about-our-team d-flex align-items-top">
