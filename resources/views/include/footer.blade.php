@@ -89,7 +89,7 @@
                         <div class="footer-item pb-3">
                             <label>Company E-mail:</label>
                             <p class="text-justify"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:travel@torna.in">travel@torna.in</a>
-                            <p class="text-justify"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:torna.in@gmail.com">torna.in@gmail.com</a></p>
+                            <p class="text-justify"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:tornaholidays@gmail.com">tornaholidays@gmail.com</a></p>
                         </div>
                         <div class="footer-item pb-3">
                             <label>Contact No:</label>

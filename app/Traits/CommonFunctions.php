@@ -81,7 +81,7 @@ trait CommonFunctions{
     public function sendContactUsEmail(ContactUsModel $contactUsModel){
         try{
             Mail::to("travel@torna.in")
-            ->cc(["torna.in@gmail.com"])->send(new ContactUsEMail,
+            ->cc(["tornaholidays@gmail.com"])->send(new ContactUsEMail,
             $contactUsModel->toArray());
         }catch(Exception $exception){
             report($exception);
